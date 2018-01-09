@@ -1,13 +1,9 @@
 *.class
-*/.*
-*/.idea/*
-*/.settings/*
-*/target/*
-*/.settings/
-*/.project
-
+/.idea/
 /.settings/
-/.project
+/target/
+*.project
+
 
 /ssm-test/.idea/
 /ssm-test/.settings/
